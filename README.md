@@ -1,2 +1,1 @@
-"# Gymnasium-RL" 
-"# Gymnasium-RL" 
+I am currently learning about Reinforcement Learning in a few Self-driving car projects, and I would like to also apply what I've learned through game AI as a recreational hobby. This is teh repository where i'll be storing that stuff
